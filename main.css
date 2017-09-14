@@ -340,19 +340,56 @@ main {
   padding: 1em;
 }
 
+
 .snippet {
   clear: both;
   margin: 24px 0;
+  display: flex;
+  flex-wrap: wrap;
 }
 
+
 .snippet__thumbnail {
-  width: 100px;
   float: left;
   margin-right: 1em;
+  order: 1;
+  width: 30%;
+  height: 35%;
 }
 
 .snippet__title {
   font-weight: 500;
+  order: 0;
+  width: 100%;
+  margin: 0 0 0.5em;
+}
+
+.snippet__title a {
+  text-decoration: none;
+  color: #666;
+  
+padding: 1.5em inherit;
+}
+
+.snippet__description {
+  order: 2;
+  width: 60%;
+  margin: 0;
+  padding: 0 0 0 1em;
+  overflow: hidden;
+  display: -webkit-box;
+  
+-webkit-box-orient: vertical;
+  
+text-overflow: ellipsis;
+}
+
+
+
+.snippet__title a:hover,
+
+.snippet__title a:active {
+  text-decoration: underline;
 }
 
 .snippet__title a {
