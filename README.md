@@ -14,19 +14,19 @@ Technologies Used
 Screenshots
 --------------
 #### Homepage on desktop
-[The Homepage on desktop](/showcase/desk1.png)
-[The Homepage on desktop](/showcase/desk2.png)
-[The Homepage on desktop](/showcase/desk3.png)
+![The Homepage on desktop](/showcase/desk1.png)
+![The Homepage on desktop](/showcase/desk2.png)
+![The Homepage on desktop](/showcase/desk3.png)
 
 #### Homepage on a tablet
-[The Homepage on a tablet](/showcase/tablet.png)
-[The Homepage on a tablet](/showcase/tablet2.png)
+![The Homepage on a tablet](/showcase/tablet.png)
+![The Homepage on a tablet](/showcase/tablet2.png)
 
 #### Homepage on a slightly smaller screen
-[The Homepage on a smaller screen](/showcase/mobileview.png)
+![The Homepage on a smaller screen](/showcase/mobileview.png)
 
 #### Homepage on a mobilephone
-[The Homepage on a mobilephone](/showcase/smallest.png)
+![The Homepage on a mobilephone](/showcase/smallest.png)
 
 What I learned doing this project
 --------------
