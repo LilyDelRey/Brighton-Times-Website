@@ -238,7 +238,7 @@ main {
 .scores__table {
   width: 100%;
   border-collapse: collapse;
-  font-size:15px;
+  font-size:13px;
 }
 
 .scores__table th,
