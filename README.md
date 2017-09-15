@@ -1,6 +1,7 @@
 Project Overview
 ============
-This project was created to practice my skills in making responsive web pages. This is a responsive Webpage for an online newspaper that is accessible and convenient for any user to find out about the most important news of the day in a matter of seconds. It contains all the sections that a print newspaper would contain from sports section up til the weather section with its added perks of being updateable at anytime of the day as soon as any incident happens.
+This project was created to practice my skills in making responsive web pages. 
+This is a responsive Webpage for an online newspaper that is accessible and convenient for any user to find out about the most important news of the day in a matter of seconds. It contains all the sections that a print newspaper would contain from sports section up til the weather section with its added perks of being updateable at anytime of the day as soon as any incident happens.
 
 Technologies Used
 --------------
@@ -18,12 +19,12 @@ Screenshots
 ![The Homepage on desktop](/showcase/desk2.png)
 ![The Homepage on desktop](/showcase/desk3.png)
 
-#### Homepage on a tablet
-![The Homepage on a tablet](/showcase/tablet.png)
-![The Homepage on a tablet](/showcase/tablet2.png)
-
 #### Homepage on a slightly smaller screen
-![The Homepage on a smaller screen](/showcase/mobileview.png)
+![The Homepage on a slightly smaller screen](/showcase/tablet.png)
+![The Homepage on a slightly smaller screen](/showcase/tablet2.png)
+
+#### Homepage on a tablet
+![The Homepage on a tablet](/showcase/mobileview.png)
 
 #### Homepage on a mobilephone
 ![The Homepage on a mobilephone](/showcase/smallest.png)
