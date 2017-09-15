@@ -1,29 +1,37 @@
 Project Overview
 ============
-[Why you created the website (ur objectives), and how you did it].
+This project was created to practice my skills in making responsive web pages.
 
 Technologies Used
 --------------
-[list everything you used]
-[e.g.]
 - VS Code
 - HTML5
+- CSS3
 - Chrome dev tools
+- Responsive Design
 
-[and so on]
 
 Screenshots
 --------------
-[Add as many screenshots for as many devices as you can, keep resizing the screen and take screenshots, and describe what they are. As an example]:
-
 #### Homepage on desktop
-![Homepage on desktop](/showcase/home.png)
+[The Homepage on desktop](/showcase/desk1.png)
+[The Homepage on desktop](/showcase/desk2.png)
+[The Homepage on desktop](/showcase/desk3.png)
+
+#### Homepage on a tablet
+[The Homepage on a tablet](/showcase/tablet.png)
+[The Homepage on a tablet](/showcase/tablet2.png)
+
+#### Homepage on a slightly smaller screen
+[The Homepage on a smaller screen](/showcase/mobileview.png)
+
+#### Homepage on a mobilephone
+[The Homepage on a mobilephone](/showcase/smallest.png)
 
 What I learned doing this project
 --------------
 
-- I learned about ...
-- Also .....
--
--
-[and so on]
+- I learned how to choose a fluid layout for my web page.
+- How to make the navigation bar reponsive according to the size of the browser the user is viewing the webpage on.
+- Also how to optimize images, tables and fonts to make for the best responsive layouts
+
